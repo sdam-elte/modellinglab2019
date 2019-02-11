@@ -1,6 +1,6 @@
 # Exploring topological phases with the Pybinding package
 
-![](http://docs.pybinding.site/en/stable/_images/kpm-5.png)
+![](4-scientistsma.jpg)
 
 [Pybinding](http://docs.pybinding.site/en/stable/) is a python package for tight-binding calculations. 
 With the help of this package one can easily create simple tight-binding models describing noninteracting
