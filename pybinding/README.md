@@ -14,7 +14,7 @@ in-between, through a mechanism known as the band repulsion; however, when in th
 such that they cannot be hybridized. Hence all topological semimetals, can
 only be protected by symmetries and hence belong to symmetry protected topological phases of matter.
 In three dimensions (3D), two bands can cross each other either at discrete points or along a closed curve. 
-In the former case, there are Weyl semimetals1,2 and Dirac semimetals that have been intensively studied
+In the former case, there are Weyl semimetals and Dirac semimetals that have been intensively studied
 in theory as well as in experiment. In the latter case, the curve where the bands cross is called a nodal line,
 which may either take the form of an extended line running across the BZ, whose ends meet the at the BZ boundary,
 or wind into a closed loop inside the BZ, or even form a chain consisting of several connected loops (nodal chain).
