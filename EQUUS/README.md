@@ -17,6 +17,8 @@ In recent years electronic transport propoerties of aa variety of low dimensiona
 3. Calculate transport through a mesoscopic constriction in a constant magnetic field. 
 
   ![](http://oroszl.web.elte.hu/mezo/constrictBfield.png)
+  
+  
 4. Choose one or more further tasks from [this](http://oroszl.web.elte.hu/mezo/Tasks.html) list and solve it with Equus.
 5. Find the signatures of [Majorana fermions](https://en.wikipedia.org/wiki/Majorana_fermion) in by reproducing the [Delft experiment](https://www.nature.com/articles/nature26142) numerically!
 
