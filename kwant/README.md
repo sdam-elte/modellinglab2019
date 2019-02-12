@@ -20,7 +20,4 @@ In recent years electronic transport propoerties of aa variety of low dimensiona
   
   
 4. Choose one or more further tasks from [this](http://oroszl.web.elte.hu/mezo/Tasks.html) list and solve it with Equus.
-5. Find the signatures of [Majorana fermions](https://en.wikipedia.org/wiki/Majorana_fermion) in by reproducing the [Delft experiment](https://www.nature.com/articles/nature26142) numerically!
-
-![](https://media.springernature.com/m685/nature-assets/nature/journal/v556/n7699/images/nature26142-f1.jpg)
-
+5. Use kwant to investigate transport in 3D nodal loop semimetals.
