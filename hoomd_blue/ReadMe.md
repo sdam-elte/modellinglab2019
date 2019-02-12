@@ -11,7 +11,8 @@ Try to visualize the output with `matplotlib` and `fresnel`.
 
 3. Simulate phase transition in Ar gas!
 
-4. Simulate optimal packing of objects with non-trivial shapes!
+4. Simulate optimal packing of objects with non-trivial shapes (first try with the tetrahedron)! Probably you need GPU
+for reasonable sized simulation. Try the Google Colab if you do not possess a GPU card.
 
 
 
