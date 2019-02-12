@@ -19,5 +19,5 @@ In recent years electronic transport propoerties of aa variety of low dimensiona
   ![](http://oroszl.web.elte.hu/mezo/constrictBfield.png)
   
   
-4. Choose one or more further tasks from [this](http://oroszl.web.elte.hu/mezo/Tasks.html) list and solve it with Equus.
+4. Choose one or more further tasks from [this](http://oroszl.web.elte.hu/mezo/Tasks.html) list and solve it with kwant!
 5. Use kwant to investigate transport in 3D nodal loop semimetals.
