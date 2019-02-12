@@ -252,4 +252,5 @@ Nowadays, online meetings and conferences are becoming more common. Some times y
 * Solid state physics:
    * [EQUUS](../EQUUS) project (László Oroszlány, Péter Rakyta)
    * [pybinding](../pybinding) project (László Oroszlány)
+   * [kwant](../kwnat) project (László Oroszlány)
 
