@@ -8,7 +8,7 @@ In the Standard Model (SM) of particle physics elementary particles gain mass vi
 
 ![Image](HZZ2mu2e.png "Higgs event")
 
-Aim of the project: Simulate [2] Higgs boson production and its main backgrounds at LHC. Find the Higgs boson signal in the simulated LHC data using machine learning methods.
+Aim of the project: Simulate [2,3] Higgs boson production and its main backgrounds at LHC. Find the Higgs boson signal in the simulated LHC data using machine learning methods.
 
 ![Image](Simulation.png "Simulation flow")
 
@@ -100,13 +100,14 @@ Compare signal/background for different MVA methods and simple cut-based selecti
 A New Boson with a Mass of 125 GeV Observed with the CMS Experiment at the Large Hadron Collider, DOI: 10.1126/science.1230816,   
 http://science.sciencemag.org/content/338/6114/1569/tab-pdf  
 
-[2] Introductory but detailed lecture on Monte Carlo simulations from the last MCNet school:  
+[2] Computational particle physics for event generators and data analysis  
+https://iopscience.iop.org/article/10.1088/1742-6596/454/1/012051/pdf
+
+[3] Introductory but detailed lecture on Monte Carlo simulations from the last MCNet school:  
 https://indico.desy.de/indico/event/19968/contribution/2/material/slides/0.pdf  
 https://indico.desy.de/indico/event/19968/contribution/5/material/slides/0.pdf  
 https://indico.desy.de/indico/event/19968/contribution/10/material/slides/0.pdf  
 
-[3] Computational particle physics for event generators and data analysis  
-https://iopscience.iop.org/article/10.1088/1742-6596/454/1/012051/pdf
 
 ---
 
