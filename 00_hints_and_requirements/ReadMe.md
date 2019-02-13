@@ -239,7 +239,7 @@ Nowadays, online meetings and conferences are becoming more common. Some times y
 * Nuclear physics
 
    * [geant4](../nuclear_physics_geant4) project (Balázs Szigeti, Ákos Horváth)
-   * [gui_accelerator](../nuclear_physics_gui) project (Ákos Horváth)
+   * [lise](../nuclear_physics_lise) project (Ákos Horváth)
 
 * Material science
 
