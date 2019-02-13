@@ -8,71 +8,68 @@ LISE++
 
 Download from http://lise.nscl.msu.edu/lise.html,
 then follow the installation description.
-Set up the visualization properties.
-Run to software using prepared input files. 
+Check if there is some output for a simple close to blank setup. 
+Read the suggested lecture notes of Oleg Tarasov, published on the website. 
 
 2. Run predefined settings
 
-Getting to know the input and the running steps, 
-getting to know the format of the results and using them, 
-Making figures for the results, to reproduce a figure from a scientific
-artice 
+Download lpp files from the web. You can find these for almost all 
+radioactive beam producing accelerator laboratories. Try to produce a 
+radioactive beam of 11Li at some setup. In the following 3 task use the 
+same beam at the same lab. 
 
-3. Changing Geometry
+3. Changing the fragment separator setup  
 
-The first unit of input is geometry. The aim is to change the detector
-geometry in a pre-selected way, run the codes with a few new detector
-geometries, interpret the resulting spectra, and select the defining
-parameters
+The task for this week is to make changes in the fragment separator 
+setup and overview the changes. The variable parameters are: Brho values of the 
+diploes, thickness of the production target and the properties of the wedge 
+located in the middle of the fragment separator system. 
+The output of this overview is a documentation about which changes result in a rise or 
+a fall of the secondary beam intensity. 
 
-Reproduce Figure 3 from the following publication:
-https://www.researchgate.net/publication/271920760
+4. Examine the momentum distributions properties in the stages of the fragment separator
 
-4. Specifying Detector Material
+Produce momentum distributions at the different stages. Export the distributions 
+as text files out of the software and analyze them using a software like gnuplot, 
+or anything else. The question is the width of the beam. 
+Change the momentum slit property, and analyze the resulting momentum distributions. 
 
-Getting to know the format for specifying new materials in the detector, set
-up a detector system using new materials. Run with new materials, analyze
-the effects of individual small and large atomic numbers by analyzing
-certain spectra of results
+5. Examine the the isotope identification properties after the separator at 
+several setup parameters
 
-5. Physics list
+Produce dE - TOF 2D histograms using the LISE++. Reproduce the lise3.gif example file 
+as much as you can. Try to increase the secondary beam intensity and check the merit 
+of the isotope separation during that. 
 
-An overview of the options for choosing built-in physical processes.
-Examining the detector you have made so far, if you allow more and more
-physical processes. Constructing detectors in which different physical
-processes play a major role. The interpretation of these spectra.
 
 6. Run Action
 
-Setting the run parameters. Investigation of different energy, mixed energy
-and different focusing featured beams in one and more detectors.
-Characterization of the complete setting parameter space, setting all
-parameters individually. Running with parameter sets and investigate the
-response function.
+Plan some beam of exotic nuclei using a choosen lise input parameter set of a lab. 
+Try to produce at least 1 particle per second beam intensity of as heavy isotopes 
+of carbon and iron as you can.  
 
 7. Data analysis
 
-An overview of the options for evaluating data. So far, only the use of
-spectrum-based assessment, the use of matches, statistical tests and
-uncertainties are included in the simulation. Write simple data evaluation
-macros.
+Run the software for a couple laboratory setups. Compare the results, 
+like RIKEN vs. FRIB or NSCL.  The parameters to compare are beam intensities 
+of heavier iron isotopes or r-process nuclei. (Read the web for what are the 
+estimates for r-process nuclei.)   
 
-8. Simulation of a complex detector system
+8. Plan az experiment 
 
-Download and paste a public input file of one of the detector systems of a
-high accelerators (NSCL, RIKEN, CERN, GSI) into the simulation environment.
-Determining the response function of some beams. Investigation of multiple
-detector energy outputs of neutrons as a function of energy, determination
-of detector acceptance for different settings. Examining the emergence of
-secondary processes by changing the settings of the physics list parameters.
+Plan an experiment of measurng the hald lives of the exotic nuclei. 
+a) produce a beam of it, b) estimate the rate, c) assume a half live from nudat2 
+database, and try to simulate the data what you would detect and estimate the 
+uncertainty of the half live to be determined. 
 
 9. Evaluation of complex detector system data
 
-Developing Models to Evaluate Run Results.
+Try to develop the beamline detector setup. Change values and try to increase beam 
+purity for extremly proton rich and extremely neuton rich isotopes. 
 
-10. Constructing run interfaces
 
-Creating a sequentially running frame or interface that can run the
-simulation in several ways in succession, and data evaluation is done
-automatically, can answer complex questions.
+10. Construct overviewing plots 
 
+Try to run the software for several adjustment of different secondary beam isotopes and 
+construct plots that describe the overall behavior of the secondary beam production at 
+one laboratory (e.g. in RIKEN)
