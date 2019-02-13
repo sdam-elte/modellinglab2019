@@ -8,7 +8,7 @@ In the Standard Model (SM) of particle physics elementary particles gain mass vi
 
 ![Image](HZZ2mu2e.png "Higgs event")
 
-Aim of the project: Simulate [2,3] Higgs boson production and its main backgrounds at LHC. Find the Higgs boson signal in the simulated LHC data using machine learning methods.
+Aim of the project: Generate [2,3] Higgs boson production and its main background events at LHC. Simulate [2,3] the detector response to these events. Find the Higgs boson signal in the simulated LHC data using a machine learning method.
 
 ![Image](Simulation.png "Simulation flow")
 
