@@ -232,7 +232,7 @@ Nowadays, online meetings and conferences are becoming more common. Some times y
 
 * Statistical Physics, Network science
 
-   * [networkx](../networkx) project (Gergely Palla, Péter Pollner)
+   * [networx](../networx) project (Gergely Palla, Péter Pollner)
    * [time evolving networks](../time_evolving_networks) project (Gergely Palla, Péter Pollner)
    * [cellular automaton](../cell_automata) project  (István Csabai, Péter Pollner)
 
@@ -247,7 +247,7 @@ Nowadays, online meetings and conferences are becoming more common. Some times y
 
 * Particle physics
 
-   * [HiggsSimulation](../HiggsSimulation) project (Ruchi Chudasama, Gabriella Pásztor)
+   * [HiggsSimulation](../HiggsSimulation/HiggsSimulation.md) project (Ruchi Chudasama, Gabriella Pásztor)
 
 * Solid state physics:
    * [EQUUS](../EQUUS) project (László Oroszlány, Péter Rakyta)
