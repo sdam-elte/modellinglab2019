@@ -4,7 +4,7 @@ The _Scientific Modelling Computer Lab_ is a project-based course aimed at last 
 
 ![comp_mod.png](comp_mod.png)
 
-The semester is going to consist of one project. Students work individually based on the recommended readings and materials. There is a possibility of contacting the lecturer and the project leader for help. For each lab meeting, students have to create a progress report and upload it to the course website in Moodle. The deadlines are set on a weekly basis to encurage continuous work. 
+The semester is going to consist of one project. Students work individually based on the recommended readings and materials. There is a possibility of contacting the lecturer and the project leader for help. For each lab meeting, students have to create a progress report and upload it to the course website in [Moodle](https://moodle.elte.hu/course/view.php?id=17918). The deadlines are set on a [weekly basis](https://docs.google.com/spreadsheets/d/19lCACers_WJXphCgow7AEzRdUj4ASXVzezAWbBxF0Yc/edit#gid=0) to encurage continuous work. 
 
 Besides the weekly reports, one review report should be submitted at the middle of the semester and one final report at the end of the semester.
 
@@ -13,7 +13,7 @@ scientific project reports. Nowadays, most scientists and employees are working 
 for appropriate time management and consize presentation of results about they work in progress. Such reports are helpful for collecting feedback, showcasing problems and discussing possible
 workarounds.
 
-Students are encouraged to sumbit their work in LaTeX. An example LaTeX file bundle is given ([LaTeX template](template.tex), [references in BibTex](sample.bib), [sample figure](ising.png), [resulting pdf](template.pdf)).
+Students are encouraged to sumbit their work in LaTeX. An example LaTeX file bundle is given ([LaTeX template](template.tex), [references in BibTex](sample.bib), [sample figure](ising.png), [resulting pdf](template.pdf)). You can easily prepare your document using online latex editors like overleaf or jupyterlab at [kooplex-edu](https://kooplex-edu.elte.hu/notebook/crrd9e-tudmodlab/lab). Working with latex on kooplex-edu requires activating TeX and LaTeX related Nbextensions. 
 
 At the end of the course, there will be a mini-conference from these presentations with space for thoughts and questions.
 
@@ -39,7 +39,7 @@ Write a short cover letter when submitting your work. It has to be concise, but 
 When using notebooks or other commented source codes for presenting your results, provide the appropriate URL, which points to the repository (github, kooplex-edu etc), where your code and
 results can be immediately seen after clicking on the link.
 
-Always upload your work to the moodle system.
+Always upload your work to the [moodle](https://moodle.elte.hu/course/view.php?id=17918) system.
 
 ## Project report
 
