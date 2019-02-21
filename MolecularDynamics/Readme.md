@@ -13,6 +13,7 @@ You will need to use forcefield parameters in order to run the simulations. Next
 2. a, Run the examples of `in.comb.Si` and `in.comb.Si.elastic`in the `examples/comb` directory  <br>
 b, Run the examples of `AuO` and `CHO` in the `examples/reax` directory. Take a look into the papers mentioned in the `README` file for each example <br>
 c, Try to visualize the movements of atoms! You can use VMD[https://www.ks.uiuc.edu/Research/vmd/] or other softwares.
+d, Please explain in few sentences how they obtained the **REAXFF** forcefield parameters and what are their limitations!
 
 3. a, Calculate an O_2 molecule's dissociation energy using an MD simulation with the **REAXFF** forcefield<br>
 b, Calculate the dissociation energy of a hydrogen atom from methane (CH_4) <br>
