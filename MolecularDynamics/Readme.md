@@ -19,7 +19,7 @@ d, Please explain in few sentences how they obtained the **REAXFF** forcefield p
 b, Calculate the dissociation energy of a hydrogen atom from methane (CH_4) <br>
 c, Compare your results with the literature!
 
-4. a, Calculate vibrational modes with the **Tersoff** forcefield<br>
+4-A. a, Calculate vibrational modes with the **Tersoff** forcefield<br>
 b, Create a periodic single wall carbon nanotube (SWCNT) and calculate the vibrational modes! <br>
 c, What parameters limit the accuracy of the calculation? Determine limiting parameters and run simulations for different set of these parameters! <br>
 d, Calculate the vibrational modes of a CNT with vacancies!<br>
@@ -27,7 +27,10 @@ https://journals.aps.org/prb/pdf/10.1103/PhysRevB.69.235409 <br>
 https://www.youtube.com/watch?v=YXQ0gZr0kkI <br>
 https://www.youtube.com/watch?v=3NmrxLbBx60 <br>
 
-5. Simulating water <br>
+4-B. Wave-Drag Enhancement of Friction in Sliding Carbon Nanotubes<br>
+Please read this paper, and try to reproduce the simulation (and results) https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.97.195901
+
+6. Simulating water <br>
 https://www.youtube.com/watch?v=IGEP-u1PNX0 <br>
 https://www.youtube.com/watch?v=NQhjAtCKghE&list=PLEdP7cCNp3PpNfrVieARvrXMtCdp1L7yU&t=0s&index=44 <br>
 a, Create a box of water <br>
