@@ -25,21 +25,17 @@ The weights of the elements for the grading are included at the end of the file.
 
 ### General requirements
 
-Submit all text file both in source code and in pdf format. Attach your code as well, but do not include external libraries and frameworks. If you have used other
-sources, than given in the project descriptions, list them in the references section of your report.
-
-Create a single zip file from all your files and upload this single zip file.
+Submit all text files to the github repository of the lab both in source code and in pdf format. Attach your code as well, but do not include external libraries and frameworks. If you have used any other sources than yours, list them in the references section of your report.
 
 Do not use capital letters, spaces, accents or any special characters but _ in your filenames!
 
+Upload these files into the *_github subfolder_* of your project. If more students are working on the same project, there are dedicated subfolders for each of them. 
+
 ### Cover letter
 
-Write a short cover letter when submitting your work. It has to be concise, but include keywords like the title of the course and the title of your project. If you submit more files, then write shortly about their content as well. 
+Write a short cover letter when submitting your work and upload it into [moodle](https://moodle.elte.hu/course/view.php?id=17918). It has to be concise, but include keywords like the title of the course and the title of your project. It should be in a letter form with your name, the address of the university, salutation and closing. Write a short summary about your work: what are the 2-3 most important results/conclusions what you have learned and what can be interesing for an external reader. Summarize shortly the list of files, what you have uploaded to the github repository. 
 
-When using notebooks or other commented source codes for presenting your results, provide the appropriate URL, which points to the repository (github, kooplex-edu etc), where your code and
-results can be immediately seen after clicking on the link.
-
-Always upload your work to the [moodle](https://moodle.elte.hu/course/view.php?id=17918) system.
+An average cover letter is a half din A4 page long, but it never should be longer than one page with all formal parts.
 
 ## Project report
 
@@ -83,13 +79,13 @@ Please wrap up your work at the end of the assignment, again, underline your own
 
 #### PDF
 
-You can write your assignment with your favourite text processing engine (Word, Latex, Jupyter Notebook etc.), as long as you submit your work in one single PDF file that contains all of your figures, text and tables. However, it should not contain your code! Think of your code as your lab experiment, and your project work as your research article. You should of course enclose your Jupyter Notebook or knitR document or any other source code you have written as a separate file. Note again, only codeless PDF report will be graded.
+You can write your assignment with your favourite text processing engine (Word, Latex, Jupyter Notebook etc.), as long as you submit your work in one single PDF file that contains all of your figures, text and tables. However, it should not contain your code! Think of your code as your lab experiment, and your project work as your research article. You should of course upload to the github folder of your project all your Jupyter Notebook or knitR document or any other source code you have written as a separate file. Note again, only codeless PDF reports will be graded.
 
 If you have problems exporting your Jupyter Notebook directly to PDF, or exporting it without code, check out nbconvert’s option to convert it to tex, then format it in your favourite tex editor, and compile to PDF.
 
 #### Sectioning.
 
-A good header containing your name, the date and the title of the project always helps. Even if you don’t make any headers, you should include an article-like title section with at least the the project title, the course name, your own name and the actual date.
+A good header containing your name, the date and the title of the project always helps. Even if you don’t make any headers, you should include an article-like title section with at least the project title, the course name, your own name and the actual date.
 
 Make a reasonable division of your work by using section and subsection headers. Make sure that the margin, font choice and the font size provide the reader with maximum readability. Pay attention to page breaks, paragraph and line spacing, remain moderate in formatting.
 
@@ -120,10 +116,12 @@ All external sources must be indicated in the text, and listed in a reference li
 
 Documents without references will not be accepted: it is simply not possible that you worked without sources. We strongly encourage you to try to read or use some parts of original research articles.
 
+When using notebooks or other commented source codes for presenting your results, provide the appropriate URL, which points to the repository (github, kooplex-edu etc), where your code and
+results can be immediately seen after clicking on the link.
+
 ## Presentation
 
-At the end of the course, you will have to prepare a ten minute presentation from your favourite assignment. Below are some points to pay attention to when preparing your presentation.
-
+At the mid and at the end of the course, you will have to prepare a ten minute presentation from your assignment. Below are some points to pay attention to when preparing your presentation.
 
 #### Time limit.
 
@@ -136,6 +134,11 @@ For the preparation of figures, refer to the previous section. It is always a go
 Prepare a header and/or footer that contains at least your name, the presentation title and the slide number. Do not let any text or figures overlap with your template or title elements. All slides should have a title.
 
 Place as little text on your slides as possible. Only key terms, ideas and formulas that you tested are necessary. Text is only a tool to focus and guide your audience’s attention, but you’ll explain everything not written there anyway.
+
+When using notebooks or other commented source codes for presenting your results, provide the appropriate URL, which points to the repository (github, kooplex-edu etc), where your code and
+results can be immediately seen after clicking on the link.
+
+Always upload your work to the [moodle](https://moodle.elte.hu/course/view.php?id=17918) system.
 
 #### Deadlines
 
@@ -170,7 +173,7 @@ Grading will happen on a basis of 100 or 98 points depending on number of lab me
 
 ### Final and mid term project report
 
-| Total points for form: | 6 |
+| Total points for format: | 6 |
 |------------------------|---|
 |	figures  	|3 |
 |	ortography	|1 |
@@ -180,9 +183,10 @@ Grading will happen on a basis of 100 or 98 points depending on number of lab me
 | Total points for content: |14|
 |	--------------------|---|
 |		motivation, introduction, theory |	3|
-|		discussion 	|5|
+|		discussion 	|3|
+|		cover letter 	|3|
 |		emphasizing own contribution| 	1|
-| creativity: |5|
+| creativity: |4|
 	
 ### Final and mid term project presentation
 
@@ -195,9 +199,9 @@ Grading will happen on a basis of 100 or 98 points depending on number of lab me
 |Total points for content: |  10|
 |-------------------------|------|
 |		motivation 	|1|
-|		emphasizing own work |	2|
-|		structure, storyline |	2|
-|guidance through the essentials 	<br>		not lost in details 	| 5 |
+|		emphasizing own work |	3|
+|		structure, storyline |	3|
+|guidance through the essentials 	<br>		not lost in details 	| 3 |
 		
 
 ### Minimum requirements.
