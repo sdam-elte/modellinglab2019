@@ -251,7 +251,7 @@ Nowadays, online meetings and conferences are becoming more common. Some times y
 
 * Particle physics
 
-   * [HiggsSimulation](../HiggsSimulation/HiggsSimulation.md) project (Ruchi Chudasama, Gabriella Pásztor)
+   * [HiggsSimulation](../HiggsSimulation/HiggsSimulation.md) project (Gabriella Pásztor)
 
 * Solid state physics:
    * [EQUUS](../EQUUS) project (László Oroszlány, Péter Rakyta)
