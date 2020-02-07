@@ -114,4 +114,3 @@ https://indico.desy.de/indico/event/19968/contribution/10/material/slides/0.pdf
 ### Contact
 
 Gabriella.Pasztor@ttk.elte.hu  
-Ruchi.Chudasama@cern.ch  
