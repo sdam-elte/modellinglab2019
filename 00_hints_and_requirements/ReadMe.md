@@ -4,7 +4,7 @@ The _Scientific Modelling Computer Lab_ is a project-based course aimed at last 
 
 ![comp_mod.png](comp_mod.png)
 
-The semester is going to consist of one project. Students work individually based on the recommended readings and materials. There is a possibility of contacting the lecturer and the project leader for help. For each lab meeting, students have to create a progress report and upload it to the course website in [Moodle](https://moodle.elte.hu/course/view.php?id=17918). The deadlines are set on a [weekly basis](https://docs.google.com/spreadsheets/d/19lCACers_WJXphCgow7AEzRdUj4ASXVzezAWbBxF0Yc/edit#gid=0) to encurage continuous work. 
+The semester is going to consist of one project. Students work individually based on the recommended readings and materials. There is a possibility of contacting the lecturer and the project leader for help. For each lab meeting, students have to create a progress report and upload it to the course website in [Moodle](https://moodle.elte.hu/course/view.php?id=21135). The deadlines are set on a weekly basis to encurage continuous work. 
 
 Besides the weekly reports, one review report should be submitted at the middle of the semester and one final report at the end of the semester.
 
@@ -33,7 +33,7 @@ Upload these files into the *_github subfolder_* of your project. If more studen
 
 ### Cover letter
 
-Write a short cover letter when submitting your work and upload it into [moodle](https://moodle.elte.hu/course/view.php?id=17918). It has to be concise, but include keywords like the title of the course and the title of your project. It should be in a letter form with your name, the address of the university, salutation and closing. Write a short summary about your work: what are the 2-3 most important results/conclusions what you have learned and what can be interesing for an external reader. Summarize shortly the list of files, what you have uploaded to the github repository. 
+Write a short cover letter when submitting your work and upload it into [moodle](https://moodle.elte.hu/course/view.php?id=21135). It has to be concise, but include keywords like the title of the course and the title of your project. It should be in a letter form with your name, the address of the university, salutation and closing. Write a short summary about your work: what are the 2-3 most important results/conclusions what you have learned and what can be interesing for an external reader. Summarize shortly the list of files, what you have uploaded to the github repository. 
 
 An average cover letter is a half din A4 page long, but it never should be longer than one page with all formal parts.
 
@@ -138,7 +138,7 @@ Place as little text on your slides as possible. Only key terms, ideas and formu
 When using notebooks or other commented source codes for presenting your results, provide the appropriate URL, which points to the repository (github, kooplex-edu etc), where your code and
 results can be immediately seen after clicking on the link.
 
-Always upload your work to the [moodle](https://moodle.elte.hu/course/view.php?id=17918) system.
+Always upload your work to the [moodle](https://moodle.elte.hu/course/view.php?id=21135) system.
 
 #### Deadlines
 
