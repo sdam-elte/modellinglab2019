@@ -254,7 +254,5 @@ Nowadays, online meetings and conferences are becoming more common. Some times y
    * [HiggsSimulation](../HiggsSimulation/HiggsSimulation.md) project (Gabriella Pásztor)
 
 * Solid state physics:
-   * [EQUUS](../EQUUS) project (László Oroszlány, Péter Rakyta)
-   * [pybinding](../pybinding) project (László Oroszlány)
    * [kwant](../kwant) project (László Oroszlány)
 
