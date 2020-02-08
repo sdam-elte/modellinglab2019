@@ -17,7 +17,7 @@ Students are encouraged to sumbit their work in LaTeX. An example LaTeX file bun
 
 At the end of the course, there will be a mini-conference from these presentations with space for thoughts and questions.
 
-## Final Report and Presentation Guidelines
+## Report and Presentation Guidelines (weekly, midterm and final)
 
 These are the guidelines that will be considered when grading your assignments. We strongly advise you to follow them not only to get better grades, but because they are pretty close to what a scientific article submission requires. If you prepare your assignments adhering to these guidelines, you are going to have a reasonable template for your thesis and first articles etc.
 
@@ -31,7 +31,7 @@ Do not use capital letters, spaces, accents or any special characters but _ in y
 
 Upload these files into the *_github subfolder_* of your project. If more students are working on the same project, there are dedicated subfolders for each of them. 
 
-### Cover letter
+### Cover letter (only for the midterm and final)
 
 Write a short cover letter when submitting your work and upload it into [moodle](https://moodle.elte.hu/course/view.php?id=21135). It has to be concise, but include keywords like the title of the course and the title of your project. It should be in a letter form with your name, the address of the university, salutation and closing. Write a short summary about your work: what are the 2-3 most important results/conclusions what you have learned and what can be interesing for an external reader. Summarize shortly the list of files, what you have uploaded to the github repository. 
 
@@ -121,7 +121,7 @@ results can be immediately seen after clicking on the link.
 
 ## Presentation
 
-At the mid and at the end of the course, you will have to prepare a ten minute presentation from your assignment. Below are some points to pay attention to when preparing your presentation.
+Every week, you have to discuss your progress with your project leader. The best way to do this, is to create a short presentation. Furthermore, at the mid and at the end of the course, you will have to prepare a ten minute presentation from your assignment. Below are some points to pay attention to when preparing your presentation.
 
 #### Time limit.
 
@@ -208,7 +208,7 @@ Grading will happen on a basis of 100 or 98 points depending on number of lab me
 
 The project reports are only acceptable, if the Form section has a minimum of 3, the Content section a minimum of 6 points. If these requirements are not met, that is worth 0 points for that report.
 
-## Guidelines for midterm presentation and weekly reports
+## Additional guidelines for midterm presentation and weekly reports/presentations
 
 The same rules apply for these type of presentations as for the final one. The only difference is, that you have no final results yet, instead, you should present your progress,
 summarize your problems (if any), and sketch your plans for the next period. Starting with presenting your full time schedule is a good idea, where you can point out, whether your work
@@ -242,8 +242,7 @@ Nowadays, online meetings and conferences are becoming more common. Some times y
 
 * Nuclear physics
 
-   * [geant4](../nuclear_physics_geant4) project (Balázs Szigeti, Ákos Horváth)
-   * [lise](../nuclear_physics_lise) project (Ákos Horváth)
+   * [geant4](../nuclear_physics_geant4) project (Ákos Horváth)
 
 * Material science
 
