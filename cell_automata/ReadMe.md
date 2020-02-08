@@ -1,4 +1,5 @@
 # Cellular automata
+## Note: this project is flexible, the new aim of this project to develop a cell automaton based epidemic model
 
 ![cellautomat2d.png](cellautomat2d.png) ![cellautomata3d.jpeg](cellautomata3d.jpeg)
 
