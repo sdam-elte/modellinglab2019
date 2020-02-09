@@ -28,16 +28,13 @@ Develop an analysis code that analyzes the output of the Geant4 simulation. This
 
 Step 5: Run the simulation and the consequent analysis code developed in step 4 to understand the effect of the beam pipe for different energies and particles on the efficiency and fake rate of finding coincidences in the overlapping detector layers.
 
+### References
+
 [1] https://www.researchgate.net/publication/323786425_Beam-dynamic_effects_at_the_CMS_BRIL_van_der_Meer_scans
-
 [2] https://arxiv.org/pdf/1806.11245.pdf
-
 [3] https://geant4.web.cern.ch/
-
 [4] https://root.cern.ch/
 
-### Contact:
+### Contacts
 
-Gabriella.Pasztor@ttk.elte.hu
-
-galgoczi@caesar.elte.hu
+Gabriella.Pasztor@ttk.elte.hu and galgoczi@caesar.elte.hu
