@@ -12,7 +12,7 @@ The CMS collaboration chosen Silicon Pixel detector technology to answer the tec
 
 The aim of the project is to quantify this effect with the help of the Geant4 particle physics simulation which was developed at ELTE.
 
-
+![Image](Sketch-of-one-quarter-of-the-layout-of-the-CMS-Tracker-for-HL-LHC-in-the-r-z-view.png "Hl-LHC upgraded CMS Tracking system")
 
 ### Project plan
 
@@ -20,6 +20,8 @@ Step 1: Install Geant4 [3]. A guide on installation can be found:
 https://sites.google.com/view/geant4elte/how-to-install-geant4
 
 Step 2: Download the TEPX simulation source code which was developed at ELTE, compile it and visualize the geometry of the detector elements in the Geant4 simulation.
+
+![Image](TEPX_Screenshot2020-02-09_233312.png "TEPX Simulation")
 
 Step 3: The detectors and the cooling pipes are included in the simulation. The task of the student is to include CO2 (the two phase cooling material in the pipes) in the simulation.
 
@@ -31,8 +33,11 @@ Step 5: Run the simulation and the consequent analysis code developed in step 4 
 ### References
 
 [1] https://www.researchgate.net/publication/323786425_Beam-dynamic_effects_at_the_CMS_BRIL_van_der_Meer_scans
+
 [2] https://arxiv.org/pdf/1806.11245.pdf
+
 [3] https://geant4.web.cern.ch/
+
 [4] https://root.cern.ch/
 
 ### Contacts
