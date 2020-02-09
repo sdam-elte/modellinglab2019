@@ -1,7 +1,8 @@
-Simulation of CERN LHC TEPX Silicon Pixel Detector for HL-LHC upgrade
-Investigation of tracking efficiency and the effect of the cooling pipe
+#Simulation of CERN LHC TEPX Silicon Pixel Detector for HL-LHC upgrade
 
-Introduction
+##Investigation of tracking efficiency and the effect of the cooling pipe
+
+###Introduction
 
 At the High-Luminosity LHC (expected to become operational in 2027) on average 140-200 proton-proton collisions will happen in every bunch crossin, i.e. in every 25 ns. This high particle flux requires highly granular and radiation hard detector technology.
 
