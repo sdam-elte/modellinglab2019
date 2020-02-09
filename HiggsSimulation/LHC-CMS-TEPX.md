@@ -4,17 +4,17 @@
 
 ### Introduction
 
-At the High-Luminosity LHC (expected to become operational in 2027) on average 140-200 proton-proton collisions will happen in every bunch crossin, i.e. in every 25 ns. This high particle flux requires highly granular and radiation hard detector technology.
+At the High-Luminosity LHC (expected to become operational in 2027), on average 140-200 proton-proton collisions will happen in every bunch crossing, i.e. at every 25 ns. This high particle flux requires highly granular and radiation hard detector technology.
 
-The precise measurement of the collision rate is essential as it affects almost all physics measurements carried out at the LHC. To reach the target precision of 1%, the detector must provide a linear response over more than 4 orders of magnitude in luminosity as well as excellent stability and high availability over the full data taking period.
+The precise measurement of the luminosity (L) - that characterises the collision rate (dN/dt = L * total_cross_section) provided by the accelerator - is essential as it affects almost all physics measurements carried out at the LHC. To reach the target precision of 1%, the detector must provide a linear response over more than 4 orders of magnitude in instantanous luminosity as well as excellent stability and high availability over the full data taking period.
 
-The CMS collaboration chosen Silicon Pixel detector technology to answer the technological challenges. These detectors however need to be kept cold to operate with low noise in the LHC environment. The current plans place the cooling pipes between the detectors. While it has the advantage of efficient cooling, the cooling pipes might scatter or absorb the particles that we want to measure. 
+The CMS collaboration chosen Silicon pixel detector technology to answer the technological challenges. The main luminometer of the experiment will be the forward extension of the pixel detector (TEPX). The modules of TEPX must be kept at low tempreature  using CO2 cooling to operate the detctor with low noise. The current plans place the cooling pipes between the detector layers. While it has the advantage of efficient cooling, the pipes might scatter or absorb the particles that we want to measure. 
 
 The aim of the project is to quantify this effect with the help of the Geant4 particle physics simulation which was developed at ELTE.
 
 ![Image](Sketch-of-one-quarter-of-the-layout-of-the-CMS-Tracker-for-HL-LHC-in-the-r-z-view.png "Hl-LHC upgraded CMS Tracking system")
 
-![Image](TEPX_PCB.png "Layout of a TEPX detector layer")
+![Image](TEPX_PCB.jpg "Layout of a TEPX detector layer")
 
 ### Project plan
 
