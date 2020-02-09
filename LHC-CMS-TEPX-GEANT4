@@ -2,26 +2,14 @@ Simulation of CERN LHC TEPX Silicon Pixel Detector for HL-LHC upgrade
 Investigation of tracking efficiency and the effect of the cooling pipe
 
 Introduction
-The CMS Beam Radiation Instrumentation and Luminosity Project (BRIL) is responsible for the simulation and measurement of luminosity, beam conditions and radiation fields in the CMS experiment. The project is engaged in operating and developing new detectors (luminometers), adequate for the experimental conditions associated with high values of instantaneous luminosity delivered by the CERN LHC [1].
 
+At the High-Luminosity LHC (expected to become operational in 2027) on average 140-200 proton-proton collisions will happen in every bunch crossin, i.e. in every 25 ns. This high particle flux requires highly granular and radiation hard detector technology.
 
+The precise measurement of the collision rate is essential as it affects almost all physics measurements carried out at the LHC. To reach the target precision of 1%, the detector must provide a linear response over more than 4 orders of magnitude in luminosity as well as excellent stability and high availability over the full data taking period.
 
-Aim of the project:
-Since generated heat in the detectors increased it became important to cool the BRIL detectors in the close future. The current plans include placing cooling pipes in between the detectors. This has the advantage of properly cooling all detectors.
+The CMS collaboration chosen Silicon Pixel detector technology to answer the technological challenges. These detectors however need to be kept cold to operate with low noise in the LHC environment. The current plans place the cooling pipes between the detectors. While it has the advantage of efficient cooling, the cooling pipes might scatter or absorb the particles that we want to measure. 
 
-Although as the pipes are in the way of particles which we want to measure by the BRIL detector. The particles might scatter or absorb the particles that we want to measure. The aim of this project is to quantify this effect with the help of the Geant4 particle physics simulation which was developed at ELTE.
-
-
-
-
-
-
-
-
-
-
-
-
+The aim of the project is to quantify this effect with the help of the Geant4 particle physics simulation which was developed at ELTE.
 
 Project plan:
 
