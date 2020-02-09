@@ -11,6 +11,8 @@ The CMS collaboration chosen Silicon Pixel detector technology to answer the tec
 
 The aim of the project is to quantify this effect with the help of the Geant4 particle physics simulation which was developed at ELTE.
 
+
+
 Project plan:
 
 Step 1: Install Geant4 [3]. A guide on installation can be found:
