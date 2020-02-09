@@ -14,6 +14,8 @@ The aim of the project is to quantify this effect with the help of the Geant4 pa
 
 ![Image](Sketch-of-one-quarter-of-the-layout-of-the-CMS-Tracker-for-HL-LHC-in-the-r-z-view.png "Hl-LHC upgraded CMS Tracking system")
 
+![Image](TEPX_PCB.png "Layout of a TEPX detector layer")
+
 ### Project plan
 
 Step 1: Install Geant4 [3]. A guide on installation can be found:
