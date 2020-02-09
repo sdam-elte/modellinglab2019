@@ -1,0 +1,43 @@
+Simulation of CERN LHC TEPX Silicon Pixel Detector for HL-LHC upgrade
+Investigation of tracking efficiency and the effect of the cooling pipe
+
+Introduction
+The CMS Beam Radiation Instrumentation and Luminosity Project (BRIL) is responsible for the simulation and measurement of luminosity, beam conditions and radiation fields in the CMS experiment. The project is engaged in operating and developing new detectors (luminometers), adequate for the experimental conditions associated with high values of instantaneous luminosity delivered by the CERN LHC [1].
+
+
+
+Aim of the project:
+Since generated heat in the detectors increased it became important to cool the BRIL detectors in the close future. The current plans include placing cooling pipes in between the detectors. This has the advantage of properly cooling all detectors.
+
+Although as the pipes are in the way of particles which we want to measure by the BRIL detector. The particles might scatter or absorb the particles that we want to measure. The aim of this project is to quantify this effect with the help of the Geant4 particle physics simulation which was developed at ELTE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project plan:
+
+Step 1: Install Geant4 [3]. A guide on installation can be found:
+https://sites.google.com/view/geant4elte/how-to-install-geant4
+Step 2: Download the TEPX simulation source code which was developed at ELTE, compile it and visualize the geometry of the detector elements in the Geant4 simulation.
+Step 3: The detectors and the cooling pipes are included in the simulation. The task of the student is to include CO2 (the two phase cooling material in the pipes) in the simulation.
+Step 4: Install ROOT [4]
+Develop an analysis code that analyzes the output of the Geant4 simulation. This should be automatized as different types of particles and several particle energies need to be investigated.
+Step 5: Run the simulation and the consequent analysis code developed in step 4 to understand the effect of the beam pipe for different energies and particles on the efficiency and fake rate of finding coincidences in the overlapping detector layers.
+
+[1] https://www.researchgate.net/publication/323786425_Beam-dynamic_effects_at_the_CMS_BRIL_van_der_Meer_scans
+[2] https://arxiv.org/pdf/1806.11245.pdf
+[3] https://geant4.web.cern.ch/
+[4] https://root.cern.ch/
+
+Contact:
+galgoczi@caesar.elte.hu
+Gabriella.Pasztor@ttk.elte.hu
