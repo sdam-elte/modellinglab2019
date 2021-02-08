@@ -13,12 +13,12 @@ The following paper by Zhang et al. describes a classical molecular dynamics typ
 [Link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S0378381220301618)
 
 
-Try to visualize the movements of atoms as well! You can use VMD[https://www.ks.uiuc.edu/Research/vmd/], (Paraview)[https://www.paraview.org/], (VisIt)[https://wci.llnl.gov/simulation/computer-codes/visit/], (Avogadro)[https://avogadro.cc/] or any other softwares.
+Try to visualize the movements of atoms/ions as well! You can use VMD[https://www.ks.uiuc.edu/Research/vmd/], (Paraview)[https://www.paraview.org/], (VisIt)[https://wci.llnl.gov/simulation/computer-codes/visit/], (Avogadro)[https://avogadro.cc/] or any other softwares.
 
 
-For validating the model on the way:
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6175054/
-* https://www.researchgate.net/profile/Ashu_Choudhary4/post/Can_anybody_guide_me_to_calculate_Spatial_distribution_function/attachment/59d622726cda7b8083a1c262/AS%3A273533098233860%401442226780198/download/JChemPhys_99_3049.pdf
+For validating the water model on the way:
+* Spatial distributio n of water: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6175054/
+* Assimilating Radial Distribution Functions to Build Water Models with Improved Structural Properties: https://www.researchgate.net/profile/Ashu_Choudhary4/post/Can_anybody_guide_me_to_calculate_Spatial_distribution_function/attachment/59d622726cda7b8083a1c262/AS%3A273533098233860%401442226780198/download/JChemPhys_99_3049.pdf
 
 
 
