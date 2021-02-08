@@ -244,9 +244,9 @@ Nowadays, online meetings and conferences are becoming more common. Some times y
 
    * [geant4](../nuclear_physics_geant4) project (Ákos Horváth)
 
-* Material science
+* Materials science
 
-   * [sdddst](../sdddst) project (Gábor Péterffy, Péter Ispánovity)
+   * [ML in materials science](../sdddst) project (Gábor Péterffy, Péter Ispánovity)
 
 * Particle physics
 
