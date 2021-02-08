@@ -8,8 +8,12 @@ I recommend to use LAMMPS for this project https://lammps.sandia.gov/. It easy t
 
 In order to run the simulations we will need to use forcefield parameters. Next to the LAMMPS source code there is a `potentials` directory, which contains forcefield parameters for various element types for different models. We will use the **REAXFF**, **Tersoff** and **COMB3** forcefield parameters and a **Lennard-Jones** type potential with charges.
 
-1. Read the documentation of LAMMPS and Install it
+New task:
+try to reproduce the results from the following paper:
+https://www.sciencedirect.com/science/article/abs/pii/S0378381220301618
 
+
+Old task:
 2. a, Run the example of `in.comb.Si` in the `examples/comb/combSi` directory  <br>
 b, Run the example of `in.spce` in the `examples/rdf-adf` directory. Try to find other values for the water's RDF and ADF in the literature and compare them.  <br>
 c, Run the examples of `AuO` and `CHO` in the `examples/reax` directory. Take a look into the papers mentioned in the `README` file for each example. Please explain in few sentences how they obtained the **REAXFF** forcefield parameters and what are their limitations!<br?
