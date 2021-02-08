@@ -9,7 +9,7 @@ I recommend to use LAMMPS for this project https://lammps.sandia.gov/. It easy t
 In order to run the simulations we will need to use forcefield parameters. Shipped with the LAMMPS source code there is a `potentials` directory, which contains forcefield parameters for various element types for different models. I recommend using the **REAXFF** forcefield parameters or a **Lennard-Jones** type potential with charges.
 
 #### Description of the task:
-The following paper by Zhang et al. describes a classical molecular dynamics type of calculation of the $Na^+$ - $F^-$ ion pair distance in aqueos solution. Try to calculate/simulate the quantities which appear in the paper!
+The following paper by Zhang et al. describes a classical molecular dynamics type of calculation of the Na+ -- F- ion pair distance in aqueos solution. Try to calculate/simulate the quantities which appear in the paper!
 [Link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S0378381220301618)
 
 First try to use a simpler model, which runs very fast and allows a crude estimation of these quantities! Once you have the right tools you may move further to a more precise model such as the **ReaxFF**. You may also use the forcefield parameters which appear in the paper.
