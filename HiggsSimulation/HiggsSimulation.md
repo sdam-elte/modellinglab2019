@@ -1,7 +1,5 @@
 # Particle Physics
 
-# Note: this project will be updated to a Geant4 simulation project very soon.
-
 ## Higgs boson production at the Large Hadron Collider at CERN
 
 ### Introduction
