@@ -224,7 +224,7 @@ Nowadays, online meetings and conferences are becoming more common. Some times y
 * Atomic physics
 
    * [Molecular Dynamics](../MolecularDynamics) project (Dávid Visontai)
-   * [hoomd_blue](../hoomd_blue) project (István Csabai, Gábor Rácz)
+   * [hoomd_blue (not in 2021)](../hoomd_blue) project (István Csabai, Gábor Rácz)
 
 * Astrophysics
 
@@ -232,13 +232,13 @@ Nowadays, online meetings and conferences are becoming more common. Some times y
 
 * Hydrodynamics
 
-   * [hydrodynamics](../hydrodynamics) project (István Csabai, Gábor Rácz)
+   * [hydrodynamics](../hydrodynamics) project (István Csabai, András Biricz)
 
 * Statistical Physics, Network science
 
-   * [networx](../networx) project (Gergely Palla, Péter Pollner)
-   * [time evolving networks](../time_evolving_networks) project (Gergely Palla, Péter Pollner)
-   * [cellular automaton](../cell_automata) project  (István Csabai, Péter Pollner)
+   * [networx](../networx) project (Gergely Palla)
+   * [time evolving networks](../time_evolving_networks) project (Péter Pollner)
+   * [cellular automaton (not in 2021)](../cell_automata) project  (István Csabai, Péter Pollner)
 
 * Nuclear physics
 
@@ -250,8 +250,8 @@ Nowadays, online meetings and conferences are becoming more common. Some times y
 
 * Particle physics
 
-   * [HiggsSimulation](../HiggsSimulation/HiggsSimulation.md) project (Gabriella Pásztor)
+   * [HiggsSimulation (not in 2021)](../HiggsSimulation/HiggsSimulation.md) project (Gabriella Pásztor)
 
 * Solid state physics:
-   * [kwant](../kwant) project (László Oroszlány)
+   * [pybinding](../pybinding) project (László Oroszlány)
 
