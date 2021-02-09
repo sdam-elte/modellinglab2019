@@ -15,9 +15,9 @@ workarounds.
 
 Students are encouraged to sumbit their work in LaTeX. An example LaTeX file bundle is given ([LaTeX template](template.tex), [references in BibTex](sample.bib), [sample figure](ising.png), [resulting pdf](template.pdf)). You can easily prepare your document using online latex editors like overleaf or jupyterlab at [kooplex-edu](https://kooplex-edu.elte.hu/notebook/crrd9e-tudmodlab/lab). Working with latex on kooplex-edu requires activating TeX and LaTeX related Nbextensions. 
 
-At the end of the course, there will be a mini-conference from these presentations with space for thoughts and questions.
+At the end of the course, there will be a mini-conference from these presentations with time for thoughts and questions.
 
-## Report and Presentation Guidelines (weekly, midterm and final)
+## Report and Presentation Guidelines (biweekly, midterm and final)
 
 These are the guidelines that will be considered when grading your assignments. We strongly advise you to follow them not only to get better grades, but because they are pretty close to what a scientific article submission requires. If you prepare your assignments adhering to these guidelines, you are going to have a reasonable template for your thesis and first articles etc.
 
@@ -25,15 +25,13 @@ The weights of the elements for the grading are included at the end of the file.
 
 ### General requirements
 
-Submit all text files to the github repository of the lab both in source code and in pdf format. Attach your code as well, but do not include external libraries and frameworks. If you have used any other sources than yours, list them in the references section of your report.
+Submit all text files to the moodle repository of the lab in source code and the results in pdf format. Attach your code as well, but do not include external libraries and frameworks. If you have used any other sources than yours, list them in the references section of your report.
 
 Do not use capital letters, spaces, accents or any special characters but _ in your filenames!
 
-Upload these files into the *_github subfolder_* of your project. If more students are working on the same project, there are dedicated subfolders for each of them. 
-
 ### Cover letter (only for the midterm and final)
 
-Write a short cover letter when submitting your work and upload it into [moodle](https://moodle.elte.hu/course/view.php?id=21135). It has to be concise, but include keywords like the title of the course and the title of your project. It should be in a letter form with your name, the address of the university, salutation and closing. Write a short summary about your work: what are the 2-3 most important results/conclusions what you have learned and what can be interesing for an external reader. Summarize shortly the list of files, what you have uploaded to the github repository. 
+Write a short cover letter when submitting your work and upload it into [moodle](https://moodle.elte.hu/). It has to be concise, but include keywords like the title of the course and the title of your project. It should be in a letter form with your name, the address of the university, salutation and closing. Write a short summary about your work: what are the 2-3 most important results/conclusions what you have learned and what can be interesing for an external reader. Summarize shortly the list of files, what you have uploaded to the github repository. 
 
 An average cover letter is a half din A4 page long, but it never should be longer than one page with all formal parts.
 
@@ -121,7 +119,7 @@ results can be immediately seen after clicking on the link.
 
 ## Presentation
 
-Every week, you have to discuss your progress with your project leader. The best way to do this, is to create a short presentation. Furthermore, at the mid and at the end of the course, you will have to prepare a ten minute presentation from your assignment. Below are some points to pay attention to when preparing your presentation.
+Every week, you have to discuss your progress with your project leader. The best way to do this, is to create a short presentation, that is easy to follow for other students as well. Therfore you have to present your progress biweekly in the lab. Furthermore, at the mid and at the end of the course, you will have to prepare a ten minute presentation from your assignment. Below are some points to pay attention to when preparing your presentation.
 
 #### Time limit.
 
@@ -142,19 +140,19 @@ Always upload your work to the [moodle](https://moodle.elte.hu/course/view.php?i
 
 #### Deadlines
 
-The deadlines by which project reports must be sent in will be presented in Moodle. Take them seriously. You will have a deadline for each week, so you will be used to upload your report in time, when the time comes for sending in the midterm and the final report.
+The deadlines by which project reports must be sent in will be presented in Moodle. Take them seriously. You will have a deadline for each second week, so you will be used to upload your report in time, when the time comes for sending in the midterm and the final report.
 
-Weekly reports will be presented during the lab meetings. Presentations of mid term progress reports are due in 7. meeting (announced in Moodle), and we close the semester with the 
+Biweekly reports will be presented during the lab meetings. Presentations of mid term progress reports are due in 7. week (announced in Moodle), and we close the semester with the 
 presentations of the final reports. 
 
 # Grading
 
-During the semester, there will be 10 weekly reports, each of them are worth 2 points. The mid term progress report and the final report are worth of 20 points both.
+During the semester, there will be 4 weekly reports, each of them are worth 2 points. The mid term progress report and the final report are worth of 20 points both.
 Mid term and final presentations are 20 and 20 points.
 
 ## Algorithm of your grade
 
-Grading will happen on a basis of 100 or 98 points depending on number of lab meetings (see [grading sheet](grading.ods)).
+Grading will happen on a basis of 100 points.
 
 | Points | Final grade |
 |--------|-------------|
@@ -164,12 +162,12 @@ Grading will happen on a basis of 100 or 98 points depending on number of lab me
 | 25-40 |	2 |
 | 0-24  |	1 |
 
-### Weekly report and presentation
+### Biweekly report and presentation
 
-| Total points per week: | 2 |
+| Total points per two weeks: | 4 |
 |---------------|---|
-|	report | 1 |
-| presentation | 1 |
+|	report | 2 |
+| presentation | 2 |
 
 ### Final and mid term project report
 
@@ -206,7 +204,7 @@ Grading will happen on a basis of 100 or 98 points depending on number of lab me
 
 ### Minimum requirements.
 
-The project reports are only acceptable, if the Form section has a minimum of 3, the Content section a minimum of 6 points. If these requirements are not met, that is worth 0 points for that report.
+Your semester project can be accepted only if you have submitted each biweekly report and presentation. If there is at least one presentation or one report missing, your points for the midterm and final reports and presentations will be cancelled.
 
 ## Additional guidelines for midterm presentation and weekly reports/presentations
 
@@ -217,7 +215,7 @@ a short summary of your new results are the most important!
 
 ## Training for online conferences and discussions 
 
-Nowadays, online meetings and conferences are becoming more common. Some times your advisor will be present at your weekly report not personally, instead, by using an online conference tool. Save the following URL for this course: https://meet.google.com/bif-hydi-hbm, this will be always active during the lab meetings and you have to talk to your advisor and present your report through this channel.
+Nowadays, online meetings and conferences are becoming more common. Some times your advisor will be present at your biweekly report not personally, instead, by using an online conference tool. 
 
 # Course Summary:
 
