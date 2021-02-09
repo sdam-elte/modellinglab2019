@@ -201,6 +201,7 @@ Grading will happen on a basis of 100 points.
 |		structure, storyline |	3|
 |guidance through the essentials 	<br>		not lost in details 	| 3 |
 		
+### Source code for midterm and final: 2
 
 ### Minimum requirements.
 
